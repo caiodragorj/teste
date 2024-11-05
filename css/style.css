@@ -1,0 +1,31 @@
+/* variaveis */
+.bg-color {
+  color:#573824;
+}
+
+.sf-color {
+  background-color: #F0E8C2;
+}
+
+.tx-cl1 {
+  color: #291B1A;
+}
+.tx-cl2 {
+  color: #573A37;
+}
+.tx-cl3 {
+  color: #F0E8C2;
+}
+
+#home {
+  width: 1280px;
+  background-image: url("../img/bg.jpg");
+}
+
+main {
+  width: 800px;
+  border-radius: 25px;
+  padding: 25px;
+  margin: 25px auto;
+
+}
