@@ -1,4 +1,8 @@
 /* variaveis */
+* {
+  margin: 0;
+  padding: 0;
+}
 .bg-color {
   color:#573824;
 }
@@ -19,12 +23,14 @@
 
 #home {
   width: 1280px;
+  padding: 25px 0;
   background-image: url("../img/bg.jpg");
 }
 
 main {
   width: 800px;
+  box-sizing: border-box;
   border-radius: 25px;
   padding: 25px;
-  margin: 25px auto;
+  margin: 0 auto;
 }
